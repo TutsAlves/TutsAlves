@@ -2,7 +2,7 @@
 - 🖊 Estudante de Análise e Desenvolvimento de Sistemas | Front-end | HTML, CSS
 - 📙 Futuro desenvolvedor Full Stack
 - 💞️ Focado em aprender e ajudar sempre!
-- 📫 How to reach me www.linkedin.com/in/artur-mantovani-de-paula-alves-394b4a219
+- 📫 How to reach me www.linkedin.com/in/artur-mpalves
 
 <!---
 TutsAlves/TutsAlves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
