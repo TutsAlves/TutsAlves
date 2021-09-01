@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou Artur Alves!
-- 🖊 Sou estudante de Análise e Desenvolvimento de Sistemas
-- 📙 Desenvolvedor Front-End em formação
+- 🖊 Estudante de Análise e Desenvolvimento de Sistemas | Front-end | HTML, CSS
+- 📙 Futuro desenvolvedor Full Stack
 - 💞️ Focado em aprender e ajudar sempre!
 - 📫 How to reach me www.linkedin.com/in/artur-mantovani-de-paula-alves-394b4a219
 
